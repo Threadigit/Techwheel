@@ -92,7 +92,7 @@
 
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
-						<img height="120dp" class="button hero__button" src="./images/Kayode.png" class="step__image" />
+						<img height="120dp" class="button hero__button" src="./images/kayode.png" class="step__image" />
 							<a href="https://linkedin.com/in/obiebuka" target="_blank">
 								<h4 style="margin:0px;">Goodness Kayode</h4>
 								<h5 style="margin:0px;">Founder/CEO, Sprinble LLC</h4>
