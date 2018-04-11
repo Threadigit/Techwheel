@@ -160,7 +160,7 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/lanre.png" class="step__image">
-						<a href="https://linkedin.com/in/lanre1" target="_blank">	
+						<a href="https://www.linkedin.com/in/ogungbelanre/" target="_blank">	
 							<h4 style="margin:0px;">Ogungbe Olanrewaju</h4>
 						</a>
 					</div>
@@ -169,7 +169,7 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/david.png" class="step__image">
-							<a href="https://linkedin.com/in/obiebuka" target="_blank">
+							<a href="https://www.linkedin.com/in/obiebukadavid/" target="_blank">
 								<h4 style="margin:0px;">Obi Ebuka David</h4>
 							</a>
 					</div>
