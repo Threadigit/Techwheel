@@ -82,9 +82,9 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/acekyd.png" class="step__image" />
-							<a href="https://linkedin.com/in/acekyd" target="_blank">
+							<a href="https://www.linkedin.com/in/acekyd/" target="_blank">
 								<h4 style="margin:0px;" >Adewale Abati</h4>
-								<h5 style="margin:0px;">Community Manager at Ingressive</h4>
+								<h5 style="margin:0px;">Developer Advocate at Ingressive</h4>
 							</a>
 					</div>
 					
@@ -93,7 +93,7 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/kayode.png" class="step__image" />
-							<a href="https://linkedin.com/in/obiebuka" target="_blank">
+							<a href="https://www.linkedin.com/in/goodness-toluwanimi-kayode/" target="_blank">
 								<h4 style="margin:0px;">Goodness Kayode</h4>
 								<h5 style="margin:0px;">Founder/CEO, Sprinble LLC</h4>
 							</a>
@@ -102,7 +102,7 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/Sukanmi.png" class="step__image" />
-						<a href="https://linkedin.com/in/lanre1" target="_blank">	
+						<a href="https://www.linkedin.com/in/ijatuyi-sunkanmi-temitope-77046485/" target="_blank">	
 							<h4 style="margin:0px;">Ijatuyi Oluwasukanmi</h4>
 							<h5 style="margin:0px;">Software Developer at Fuerte Solutions</h4>
 						</a>
@@ -118,7 +118,7 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/harry.png" class="step__image" />
-							<a href="https://linkedin.com/in/obiharry" target="_blank">
+							<a href="https://www.linkedin.com/in/harry-obi-c-52b066b2/" target="_blank">
 								<h4 style="margin:0px;" >Obi Harry Chijioke</h4>
 								<h5 style="margin:0px;">Business Consultant/Talent Manager</h4>
 							</a>
@@ -129,7 +129,7 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/niyi.png" class="step__image" />
-							<a href="https://linkedin.com/in/niyiadegboye" target="_blank">
+							<a href="https://www.linkedin.com/in/adegboyehenry/" target="_blank">
 								<h4 style="margin:0px;">Niyi Adegboye</h4>
 								<h5 style="margin:0px;">Senior Business Developer, Edves</h4>
 							</a>
@@ -138,7 +138,7 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/simi.png" class="step__image" />
-						<a href="https://linkedin.com/in/simiadejumo" target="_blank">	
+						<a href="https://www.linkedin.com/in/simiadejumo/" target="_blank">	
 							<h4 style="margin:0px;">Simi Adejumo</h4>
 							<h5 style="margin:0px;">Strategic Business Developer, Accounteer</h4>
 						</a>
@@ -153,7 +153,7 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/tolu.png" class="step__image">
-							<a href="https://linkedin.com/in/adetuyitolu" target="_blank">
+							<a href="https://www.linkedin.com/in/adetuyitolu/" target="_blank">
 								<h4 style="margin:0px;" >Adetuyi Tolu Emmauel</h4>
 								<h5 style="margin:0px;">Product Manager at Accounteer</h4>
 							</a>
@@ -163,7 +163,7 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/lanre.png" class="step__image /">
-						<a href="https://linkedin.com/in/lanre1" target="_blank">	
+						<a href="https://www.linkedin.com/in/ogungbelanre/" target="_blank">	
 							<h4 style="margin:0px;">Ogungbe Olanrewaju</h4>
 							<h5 style="margin:0px;">International Business Developer at Accounteer</h4>
 						</a>
@@ -173,7 +173,7 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/david.png" class="step__image" />
-							<a href="https://linkedin.com/in/obiebuka" target="_blank">
+							<a href="https://www.linkedin.com/in/obiebukadavid/" target="_blank">
 								<h4 style="margin:0px;">Obi Ebuka David</h4>
 								<h5 style="margin:0px;">Security Expert at AppZone Group</h4>
 							</a>
@@ -186,7 +186,7 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/laolu.png" class="step__image" />
-							<a href="https://linkedin.com/in/olasbos" target="_blank">
+							<a href="https://www.linkedin.com/in/olaolu-akinsete-422814ab/" target="_blank">
 								<h4 style="margin:0px;" >Olaolu Akinsete</h4>
 								<h5 style="margin:0px;">Sofware Engineer, MFM TV</h4>
 							</a>
