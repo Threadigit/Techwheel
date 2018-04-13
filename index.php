@@ -66,8 +66,8 @@
 					<div class="hero__content__inner" id='navConverter'>
 						<h1 class="hero__title">We <span id="typedit" style="border-bottom:3px solid #06D19C;" ></span >using<p> technology</p></h1>
 						<p class="hero__text">We are largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology.</p>
-						<a href="#" class="button button__accent">Apply to Join</a>
-						<a href="#" class="button hero__button">Volunteer | Partner with Us</a>
+						<a href="https://goo.gl/forms/EQtAcqeKEcMFQqJw1" class="button button__accent">Apply to Join</a>
+						<a href="https://goo.gl/forms/PQJx7ErJfnT7K3KO2" class="button hero__button">Volunteer | Partner with Us</a>
 					</div>
 				</div>
 			</div>
