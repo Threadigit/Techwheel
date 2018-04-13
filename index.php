@@ -70,7 +70,7 @@
 		<nav class="nav__mobile"></nav>
 		<div class="container">
 			<div class="navbar__inner">
-				<a href="index" class="navbar__logo"><img height="52dp" src="images/logowheel.png" /></a>
+				<a href="/" class="navbar__logo"><img height="52dp" src="images/logowheel.png" /></a>
 				<nav class="navbar__menu">
 					<ul>
 						<li><a href="#about">About Us</a></li>
