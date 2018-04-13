@@ -197,7 +197,7 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/avatar.png" class="step__image" />
-							<a href="# target="_blank">
+							<a href="https://goo.gl/forms/PQJx7ErJfnT7K3KO2" target="_blank">
 								<h4 style="margin:0px;">Join Us</h4>
 								<h5 style="margin:0px;">?</h4>
 							</a>
@@ -206,7 +206,7 @@
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/avatar.png" class="step__image" />
-						<a href="#" target="_blank">	
+						<a href="https://goo.gl/forms/PQJx7ErJfnT7K3KO2" target="_blank">	
 							<h4 style="margin:0px;">Join Us</h4>
 							<h5 style="margin:0px;">?</h4>
 						</a>
