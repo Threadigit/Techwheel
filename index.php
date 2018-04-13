@@ -5,6 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<title>Techwheel (Human Development Platform)</title>
 	  <meta name="description" content="At Techwheel,We are largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology.">
+	  <meta name="google-site-verification" content="jmBwMF6BE1PthICqafGyywWlbq5BRb3ZEpIetelvZuA" />
         <meta name="author" content="Techwheel">
         <meta name="twitter" content="@techwheelorg" />
         <meta name="instagram" content="@techwheelorg" />

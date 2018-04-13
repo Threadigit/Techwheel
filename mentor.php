@@ -4,6 +4,23 @@
 	<meta class="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<title>Techwheel (Human Development Platform)</title>
+	<meta name="description" content="At Techwheel,We are largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology.">
+	  <meta name="google-site-verification" content="jmBwMF6BE1PthICqafGyywWlbq5BRb3ZEpIetelvZuA" />
+        <meta name="author" content="Techwheel">
+        <meta name="twitter" content="@techwheelorg" />
+        <meta name="instagram" content="@techwheelorg" />
+      
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="TechWheel - Advancing human development via technology" />
+        <meta property="og:description" content="At Techwheel,We are largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology." />
+        <meta property="og:url" content="https://techwheel.com/" />
+        <meta property="og:site_name" content="Techwheel" />
+        <meta property="og:image" content="http://www.techwheel.com/images/logo.png" />
+        <meta property="og:image:secure_url" content="http://www.techwheel.com/images/logo.png" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:creator" content="@techwheelorg" />
+        <meta name="twitter:description" content="At Techwheel,We are largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology." />
+        <meta name="twitter:title" content="TechWheel - Advancing human development via technology" />
 	<link rel="shortcut icon" href="images/logo.png" />
 	<link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
 	<!-- Don't forget to add your metadata here -->
