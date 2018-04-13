@@ -70,12 +70,12 @@
 		<nav class="nav__mobile"></nav>
 		<div class="container">
 			<div class="navbar__inner">
-				<a href="index.php" class="navbar__logo"><img height="52px" src="images/logowheel.png" /></a>
+				<a href="index" class="navbar__logo"><img height="52px" src="images/logowheel.png" /></a>
 				<nav class="navbar__menu">
 					<ul>
-						<li><a href="index.php#about">About Us</a></li>
-						<li><a href="index.php#contact">Contact Us</a></li>
-						<li><a href="mentor.php">Our Mentors</a></li>
+						<li><a href="index#about">About Us</a></li>
+						<li><a href="index#contact">Contact Us</a></li>
+						<li><a href="mentor">Our Mentors</a></li>
 						<li><a href="https://www.medium.com/techwheel" target="_blank">Our Stories</a></li>
 					</ul>
 				</nav>
