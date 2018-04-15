@@ -10,7 +10,7 @@ Structured Data Markup Helper. -->
   "@type" : "Product",
   "name" : "Techwheel",
   "image" : "http://www.techwheel.org/images/logowheel.png",
-  "description" : "At Techwheel,We are largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology.",
+  "description" : "Techwheel is largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology.",
   "url" : "http://www.techwheel.org/",
   "brand" : {
     "@type" : "Brand",
@@ -23,7 +23,7 @@ Structured Data Markup Helper. -->
       "@type" : "Person",
       "name" : "Kayode Goodness"
     },
-    "datePublished" : "Please insert valid ISO 8601 date/time here. Examples: 2015-07-27 or 2015-07-27T15:30",
+    "datePublished" : "2018-04-02T15:30",
     "reviewRating" : {
       "@type" : "Rating",
       "ratingValue" : "5",
@@ -92,7 +92,7 @@ Structured Data Markup Helper. -->
 	<meta class="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<title>Techwheel (Human Development Platform)</title>
-	<meta name="description" content="At Techwheel,We are largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology.">
+	<meta name="description" content="Techwheel is largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology.">
 	  <meta name="google-site-verification" content="jmBwMF6BE1PthICqafGyywWlbq5BRb3ZEpIetelvZuA" />
         <meta name="author" content="Techwheel">
         <meta name="twitter" content="@techwheelorg" />
@@ -100,14 +100,14 @@ Structured Data Markup Helper. -->
       
         <meta property="og:type" content="website" />
         <meta property="og:title" content="TechWheel - Advancing human development via technology" />
-        <meta property="og:description" content="At Techwheel,We are largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology." />
+        <meta property="og:description" content="Techwheel is largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology." />
         <meta property="og:url" content="https://techwheel.com/" />
         <meta property="og:site_name" content="Techwheel" />
         <meta property="og:image" content="http://www.techwheel.com/images/logo.png" />
         <meta property="og:image:secure_url" content="http://www.techwheel.com/images/logo.png" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:creator" content="@techwheelorg" />
-        <meta name="twitter:description" content="At Techwheel,We are largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology." />
+        <meta name="twitter:description" content="Techwheel is largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology." />
         <meta name="twitter:title" content="TechWheel - Advancing human development via technology" />
 	<link rel="shortcut icon" href="images/logo.png" />
 	<link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
