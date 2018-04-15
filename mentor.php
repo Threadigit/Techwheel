@@ -1,6 +1,40 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
+
+	<!--Structure data -->
+Structured Data Markup Helper. -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "name" : "Techwheel",
+  "image" : "http://www.techwheel.org/images/logowheel.png",
+  "description" : "At Techwheel,We are largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology.",
+  "url" : "http://www.techwheel.org/",
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "TechWheel Foundation",
+    "logo" : "http://www.techwheel.org/images/logo.png"
+  },
+  "review" : {
+    "@type" : "Review",
+    "author" : {
+      "@type" : "Person",
+      "name" : "Kayode Goodness"
+    },
+    "datePublished" : "Please insert valid ISO 8601 date/time here. Examples: 2015-07-27 or 2015-07-27T15:30",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "5",
+      "bestRating" : "5",
+      "worstRating" : "0"
+    },
+    "reviewBody" : "Talents are built here. No better place to learn and build awesome stuffs than Techwheel"
+  }
+}
+</script>
+	
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117542892-1"></script>
 <script>
