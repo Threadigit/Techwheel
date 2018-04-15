@@ -31,10 +31,54 @@ Structured Data Markup Helper. -->
       "worstRating" : "0"
     },
     "reviewBody" : "Talents are built here. No better place to learn and build awesome stuffs than Techwheel"
-  }
+  },
+"potentialAction": [{
+  "@type": "SearchAction",
+  "target": "http://techwheel.org/search?q={search_term_string}",
+  "query-input": "required name=search_term_string"
+}]
 }
+
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "http://www.techwheel.org",
+  "logo": "http://www.techwheel.org/images/logowheel.png",
+  "image" : "http://www.techwheel.org/images/logowheel.png",
+    "sameAs": [
+    "http://www.facebook.com/techwheelorg",
+    "http://instagram.com/techwheelorg",
+    "https://twitter.com/techwheelorg",
+    "https://medium.com/techwheel"
+  ],
+  "openingHoursSpecification": [
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Saturday",
+    "opens": "00:00",
+    "closes": "23:59"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": "Sunday",
+    "opens": "00:00",
+    "closes": "00:00"
+  }
+]
+}
+
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "headline":"Techwheel Stories",
+  "image": [
+    "http://www.techwheel.org/images/logowheel.png"
+   ]
+
+  }
+
 </script>
-	
+
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117542892-1"></script>
 <script>
