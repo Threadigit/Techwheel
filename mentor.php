@@ -2,8 +2,7 @@
 <html lang='en'>
 <head>
 
-	<!--Structure data -->
-Structured Data Markup Helper. -->
+	<!--Structure Structured Data Markup Helper. -->
 <script type="application/ld+json">
 {
   "@context" : "http://schema.org",
