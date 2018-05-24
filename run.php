@@ -22,6 +22,5 @@ $data = array('Nuban' =>'0130071685');
 
 print_r(sendPostData($url,$token,$data));
 */
-echo "i am good";  jkddk
-echo 'junky';
+echo "i am good";
  ?>
