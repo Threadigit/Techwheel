@@ -17,6 +17,5 @@ $data = array('Nuban' =>'0130071685');
   $fp = fopen($url, 'rb', false, $stream);
   $reply = stream_get_contents($fp);
 
-*/
 echo "i am good";
  ?>
