@@ -1,6 +1,6 @@
 <?php
-/**error_reporting(-1);
-function sendPostData($url,$token, $data) {
+error_reporting(-1);
+/**function sendPostData($url,$token, $data) {
   $opts = array('http' => array(
     'method' => 'POST',
     'header' =>
