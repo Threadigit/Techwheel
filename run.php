@@ -1,6 +1,6 @@
 <?php
 error_reporting(-1);
-/**function sendPostData($url,$token, $data) {
+function sendPostData($url,$token, $data) {
   $opts = array('http' => array(
     'method' => 'POST',
     'header' =>
@@ -15,8 +15,7 @@ error_reporting(-1);
 
   return $reply;
 }
-
-$url = "http://gtweb.gtbank.com/CustomerDetails/Api/CustomerDetails";
+/**$url = "http://gtweb.gtbank.com/CustomerDetails/Api/CustomerDetails";
 $token = $_REQUEST['accessToken'];
 $data = array('Nuban' =>'0130071685');
 
