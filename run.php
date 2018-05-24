@@ -1,11 +1,15 @@
 <?php
 error_reporting(-1);
-function sendPostData($url,$token, $data) {
+
+$url = "http://gtweb.gtbank.com/CustomerDetails/Api/CustomerDetails";
+$token = "3490oihtbgbgutt9";
+$data = array('Nuban' =>'0130071685');
+
   $opts = array('http' => array(
     'method' => 'POST',
     'header' =>
         "Authorization:".$token."\r\n".
-        "Content-type: application/x-www-form-urlencoded\r\n".
+        "Content-type:  application/json\r\n".
         "Content-Length: ".strlen($data)."\r\n".
     'content' => $data,
     );
@@ -13,13 +17,6 @@ function sendPostData($url,$token, $data) {
   $fp = fopen($url, 'rb', false, $stream);
   $reply = stream_get_contents($fp);
 
-  return $reply;
-}
-/**$url = "http://gtweb.gtbank.com/CustomerDetails/Api/CustomerDetails";
-$token = $_REQUEST['accessToken'];
-$data = array('Nuban' =>'0130071685');
-
-print_r(sendPostData($url,$token,$data));
 */
 echo "i am good";
  ?>
