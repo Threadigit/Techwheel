@@ -96,7 +96,7 @@
         <meta name="author" content="Techwheel">
         <meta name="twitter" content="@techwheelorg" />
         <meta name="instagram" content="@techwheelorg" />
-      
+
         <meta property="og:type" content="website" />
         <meta property="og:title" content="TechWheel - Advancing human development via technology" />
         <meta property="og:description" content="Techwheel is largely concerned in building digitally transformed set of people who will contribute immensely to the future by influencing their community using technology." />
@@ -216,7 +216,7 @@
 		</div>
 	</div>
 	<!-- Expanded sections -->
-	
+
 	<div class="expanded landing__section" data-aos="fade-down">
 		<div class="container">
 			<div class="expanded__inner">
@@ -259,16 +259,16 @@
 								<h4 style="margin:0px;" >Adetuyi Tolu Emmauel</h4>
 							</a>
 					</div>
-					
+
 				</div>
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/lanre.png" class="step__image">
-						<a href="https://www.linkedin.com/in/ogungbelanre/" target="_blank">	
+						<a href="https://www.linkedin.com/in/ogungbelanre/" target="_blank">
 							<h4 style="margin:0px;">Ogungbe Olanrewaju</h4>
 						</a>
 					</div>
-					
+
 				</div>
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
@@ -277,8 +277,8 @@
 								<h4 style="margin:0px;">Obi Ebuka David</h4>
 							</a>
 					</div>
-				
-				
+
+
 				</div>
 			</div>
 		</div>
@@ -294,10 +294,10 @@
 			</div>
 			<form data-aos="fade-up"  class="form container" role="form"  action="https://techwheel.us17.list-manage.com/subscribe/post?u=72b2713a22ccb0ff0c4325bd9&amp;id=d5e6ba1aae" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"class="validate" target="_blank" novalidate>
                 <div class="form-group" style="margin-right: 10px; display: inline;">
-                    <input style="display: inline; width: 250px; " type="email" name="EMAIL"  id="mce-EMAIL"class="form-control transparent" placeholder="Your email here..." required> 
-                       
+                    <input style="display: inline; width: 250px; " type="email" name="EMAIL"  id="mce-EMAIL"class="form-control transparent" placeholder="Your email here..." required>
+
                 </div>
-                <div  style="display: inline;">  
+                <div  style="display: inline;">
                     <button  type="submit" class="button button__accent" name="subscribe" id="mc-embedded-subscribe" >Notify Me
 					</button>
 				</div>
@@ -323,11 +323,10 @@
 							<a href="index.html" class="footer__textLogo">Tech Wheel Foundation</a>
 						</div>
 						<div class="footer__row" style="width: 220px;">
-							No 1, towry close, idejo street, off Adeola Odeku,
-							Victoria Island, Lagos.
+            No 3, St. Finbarr's College Road, Akoka-Yaba, Lagos.
 						</div>
 					</div>
-				
+
 				</div>
 				<div class="footer__data">
 					<div class="footer__data__item">
@@ -338,16 +337,16 @@
 					  <div class="footer__row">
 					 	training@techwheel.org
 					   </div>
-						
-					</div>	
+
+					</div>
 
 					<div class="footer__data__item">
 				<div class="footer__row">
 							<a href="index.html" class="footer__textLogo">Our Social Media</a>
 						</div>
 					<div class="footer__row">
-						<a href="https://twitter.com/techwheelorg" target="_blank" class="footer__link">Twitter</a> | 
-						<a href="https://www.facebook.com/techwheelorg" target="_blank" class="footer__link">Facebook</a> | 
+						<a href="https://twitter.com/techwheelorg" target="_blank" class="footer__link">Twitter</a> |
+						<a href="https://www.facebook.com/techwheelorg" target="_blank" class="footer__link">Facebook</a> |
 						<a href="https://www.medium.com/techwheel" target="_blank" class="footer__link">Medium</a>
 					</div>
 				</div>
@@ -357,7 +356,7 @@
 							&copy 2018, All rights reserved
 						</div>
 					</div>
-				
+
 			</div>
 		</div>
 	</div>
