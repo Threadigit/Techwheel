@@ -163,7 +163,7 @@
 	</div>
 	<!-- Hero unit -->
 	<!-- Hero unit -->
-	<div class="page__header" class="hero community_bg" style="background-image: url(images/evie_default_bg.jpeg);">
+	<div class="page__header" class="hero community_bg" style="background-image: url(images/bg.jpg);">
 		<div class="hero__overlay hero__overlay--gradient" ></div>
 		<div class="hero__mask"></div>
 		<div class="page__header__inner">
