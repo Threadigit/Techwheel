@@ -153,6 +153,7 @@
 						<li><a href="/#about">About Us</a></li>
 						<li><a href="/#contact">Contact Us</a></li>
 						<li><a href="mentor">Our Mentors</a></li>
+              <li><a href="community">Our Community</a></li>
 						<li><a href="https://www.medium.com/techwheel" target="_blank">Our Stories</a></li>
 					</ul>
 				</nav>
