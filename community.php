@@ -199,7 +199,7 @@
 						<img height="120dp" class="button hero__button" src="./images/logo.png" class="step__image" />
 							<a href="#" target="_blank">
 								<h4 style="margin:0px;" >Lagos Chapter</h4>
-								<h5 style="margin:0px;">Empoering the undeserved communities</h4>
+								<h5 style="margin:0px;">Empwoering the undeserved communities</h4>
 							</a>
 					</div>
 
