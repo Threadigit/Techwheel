@@ -853,6 +853,10 @@ select {
   width: 1.2em;
   vertical-align: middle; }
 
+.community_bg{
+  background-image: url("../images/evie_default_bg.jpeg");
+}
+
 .hero {
   position: relative;
   width: 100%;

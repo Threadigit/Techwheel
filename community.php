@@ -163,7 +163,7 @@
 	</div>
 	<!-- Hero unit -->
 	<!-- Hero unit -->
-	<div class="page__header" class="hero">
+	<div class="page__header" class="hero community_bg">
 		<div class="hero__overlay hero__overlay--gradient" ></div>
 		<div class="hero__mask"></div>
 		<div class="page__header__inner">
