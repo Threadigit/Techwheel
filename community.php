@@ -194,8 +194,8 @@
 		<div class="container">
 
 		<div class="steps__inner">
-				<div class="step" data-aos="zoom-in-down">
-					<div class="step__media">
+				<div class="step">
+					<div class="step__media" data-aos="zoom-in-down">
 						<img height="120dp" class="button hero__button" src="./images/logo.png" class="step__image" />
 							<a href="#" target="_blank">
 								<h4 style="margin:0px;" >Lagos Chapter</h4>
