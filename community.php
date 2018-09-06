@@ -163,8 +163,8 @@
 	</div>
 	<!-- Hero unit -->
 	<!-- Hero unit -->
-	<div class="page__header">
-		<div class="hero hero__overlay hero__overlay--gradient" ></div>
+	<div class="page__header" class="hero">
+		<div class="hero__overlay hero__overlay--gradient" ></div>
 		<div class="hero__mask"></div>
 		<div class="page__header__inner">
 			<div class="container">
