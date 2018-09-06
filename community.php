@@ -164,7 +164,7 @@
 	<!-- Hero unit -->
 	<!-- Hero unit -->
 	<div class="page__header">
-		<div class="hero__overlay hero__overlay--gradient"></div>
+		<div class="hero hero__overlay hero__overlay--gradient" ></div>
 		<div class="hero__mask"></div>
 		<div class="page__header__inner">
 			<div class="container">
@@ -199,7 +199,7 @@
 						<img height="120dp" class="button hero__button" src="./images/logo.png" class="step__image" />
 							<a href="#" target="_blank">
 								<h4 style="margin:0px;" >Lagos Chapter</h4>
-								<h5 style="margin:0px;">Empwoering the undeserved communities</h4>
+								<h5 style="margin:0px;">Empowering the undeserved communities</h4>
 							</a>
 					</div>
 
