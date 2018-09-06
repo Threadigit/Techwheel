@@ -170,7 +170,7 @@
 			<div class="container">
 				<div class="page__header__content">
 					<div class="page__header__content__inner" id='navConverter'>
-						<h1 class="page__header__title">TechWheel AffiliateCommunity</h1>
+						<h1 class="page__header__title">TechWheel Affiliate Community</h1>
 						<p class="page__header__text">
               It’s a licensed community of people
               championed by an individual or group of
