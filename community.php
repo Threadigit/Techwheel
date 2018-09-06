@@ -169,8 +169,19 @@
 			<div class="container">
 				<div class="page__header__content">
 					<div class="page__header__content__inner" id='navConverter'>
-						<h1 class="page__header__title">Our Mentors</h1>
-						<p class="page__header__text">We have exeptional industry experts who are commited to seeing the growth of all techwheelers from inception to conception.</p>
+						<h1 class="page__header__title">TechWheel AffiliateCommunity</h1>
+						<p class="page__header__text">
+              It’s a licensed community of people
+              championed by an individual or group of
+              people with an agenda similar to the
+              goals of TechWheel organization:
+              “impacting undeserving people or communities
+               with tech related skills”. These
+              communities are binded by certain
+              governing rules and while still licensed,
+              they are overseen by appointed
+              TechWheel agents/staff.
+            </p>
 					</div>
 				</div>
 			</div>
@@ -181,118 +192,13 @@
 	<div class="steps landing__section" data-aos="fade-up">
 		<div class="container">
 
-
-				<div class="steps__inner">
-				<div class="step" data-aos="zoom-in-down">
-					<div class="step__media">
-						<img height="120dp" class="button hero__button" src="./images/acekyd.png" class="step__image" />
-							<a href="https://www.linkedin.com/in/acekyd/" target="_blank">
-								<h4 style="margin:0px;" >Adewale Abati</h4>
-								<h5 style="margin:0px;">Developer Advocate at Ingressive</h4>
-							</a>
-					</div>
-
-				</div>
-
-				<div class="step" data-aos="zoom-in-down">
-					<div class="step__media">
-						<img height="120dp" class="button hero__button" src="./images/kayode.png" class="step__image" />
-							<a href="https://www.linkedin.com/in/goodness-toluwanimi-kayode/" target="_blank">
-								<h4 style="margin:0px;">Goodness Kayode</h4>
-								<h5 style="margin:0px;">Founder/CEO, Sprinble LLC</h4>
-							</a>
-					</div>
-				</div>
-				<div class="step" data-aos="zoom-in-down">
-					<div class="step__media">
-						<img height="120dp" class="button hero__button" src="./images/Sukanmi.png" class="step__image" />
-						<a href="https://www.linkedin.com/in/ijatuyi-sunkanmi-temitope-77046485/" target="_blank">
-							<h4 style="margin:0px;">Ijatuyi Oluwasukanmi</h4>
-							<h5 style="margin:0px;">Software Developer at Fuerte Solutions</h4>
-						</a>
-					</div>
-
-				</div>
-
-
-			</div>
-
-
-	<div class="steps__inner">
-				<div class="step" data-aos="zoom-in-down">
-					<div class="step__media">
-						<img height="120dp" class="button hero__button" src="./images/harry.png" class="step__image" />
-							<a href="https://www.linkedin.com/in/harry-obi-c-52b066b2/" target="_blank">
-								<h4 style="margin:0px;" >Obi Harry Chijioke</h4>
-								<h5 style="margin:0px;">Business Consultant/Talent Manager</h4>
-							</a>
-					</div>
-
-				</div>
-
-				<div class="step" data-aos="zoom-in-down">
-					<div class="step__media">
-						<img height="120dp" class="button hero__button" src="./images/niyi.png" class="step__image" />
-							<a href="https://www.linkedin.com/in/adegboyehenry/" target="_blank">
-								<h4 style="margin:0px;">Niyi Adegboye</h4>
-								<h5 style="margin:0px;">Senior Business Developer, Edves</h4>
-							</a>
-					</div>
-				</div>
-				<div class="step" data-aos="zoom-in-down">
-					<div class="step__media">
-						<img height="120dp" class="button hero__button" src="./images/simi.png" class="step__image" />
-						<a href="https://www.linkedin.com/in/simiadejumo/" target="_blank">
-							<h4 style="margin:0px;">Simi Adejumo</h4>
-							<h5 style="margin:0px;">Strategic Business Developer, Accounteer</h4>
-						</a>
-					</div>
-
-				</div>
-
-
-			</div>
-
-			<div class="steps__inner">
-				<div class="step" data-aos="zoom-in-down">
-					<div class="step__media">
-						<img height="120dp" class="button hero__button" src="./images/tolu.png" class="step__image">
-							<a href="https://www.linkedin.com/in/adetuyitolu/" target="_blank">
-								<h4 style="margin:0px;" >Adetuyi Tolu Emmauel</h4>
-								<h5 style="margin:0px;">Product Manager at Accounteer</h4>
-							</a>
-					</div>
-
-				</div>
-				<div class="step" data-aos="zoom-in-down">
-					<div class="step__media">
-						<img height="120dp" class="button hero__button" src="./images/lanre.png" class="step__image /">
-						<a href="https://www.linkedin.com/in/ogungbelanre/" target="_blank">
-							<h4 style="margin:0px;">Ogungbe Olanrewaju</h4>
-							<h5 style="margin:0px;">International Business Developer at Accounteer</h4>
-						</a>
-					</div>
-
-				</div>
-				<div class="step" data-aos="zoom-in-down">
-					<div class="step__media">
-						<img height="120dp" class="button hero__button" src="./images/david.png" class="step__image" />
-							<a href="https://www.linkedin.com/in/obiebukadavid/" target="_blank">
-								<h4 style="margin:0px;">Obi Ebuka David</h4>
-								<h5 style="margin:0px;">Security Expert at AppZone Group</h4>
-							</a>
-					</div>
-				</div>
-
-			</div>
-
 		<div class="steps__inner">
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
-						<img height="120dp" class="button hero__button" src="./images/laolu.png" class="step__image" />
-							<a href="https://www.linkedin.com/in/olaolu-akinsete-422814ab/" target="_blank">
-								<h4 style="margin:0px;" >Olaolu Akinsete</h4>
-								<h5 style="margin:0px;">Sofware Engineer, MFM TV</h4>
+						<img height="120dp" class="button hero__button" src="./images/logo.png" class="step__image" />
+							<a href="#" target="_blank">
+								<h4 style="margin:0px;" >Lagos Chapter</h4>
+								<h5 style="margin:0px;">Empoering the undeserved communities</h4>
 							</a>
 					</div>
 
@@ -302,7 +208,7 @@
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/avatar.png" class="step__image" />
 							<a href="https://goo.gl/forms/PQJx7ErJfnT7K3KO2" target="_blank">
-								<h4 style="margin:0px;">Join Us</h4>
+								<h4 style="margin:0px;">Start TechWheel Affiliate Community</h4>
 								<h5 style="margin:0px;">?</h4>
 							</a>
 					</div>
@@ -311,7 +217,7 @@
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/avatar.png" class="step__image" />
 						<a href="https://goo.gl/forms/PQJx7ErJfnT7K3KO2" target="_blank">
-							<h4 style="margin:0px;">Join Us</h4>
+							<h4 style="margin:0px;">Start TechWheel Affiliate Community</h4>
 							<h5 style="margin:0px;">?</h4>
 						</a>
 					</div>
@@ -362,7 +268,7 @@
 							<a href="index.html" class="footer__textLogo">Tech Wheel Foundation</a>
 						</div>
 						<div class="footer__row" style="width: 220px;">
-							No 3, St. Finbarr's College Road, Akoka-Yaba, Lagos.
+						No 3, St. Finbarr's College Road, Akoka-Yaba, Lagos.
 						</div>
 					</div>
 
