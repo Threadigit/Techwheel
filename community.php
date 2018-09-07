@@ -210,7 +210,7 @@
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/avatar.png" class="step__image" />
 							<a href="https://techwheel.typeform.com/to/yWWxMr" target="_blank">
-								<h4 style="margin:0px;">Start TechWheel Affiliate Community</h4>
+								<h4 style="margin:0px;">Start TechWheel Community</h4>
 								<h5 style="margin:0px;">?</h4>
 							</a>
 					</div>
@@ -219,7 +219,7 @@
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/avatar.png" class="step__image" />
 						<a href="https://techwheel.typeform.com/to/yWWxMr" target="_blank">
-							<h4 style="margin:0px;">Start TechWheel Affiliate Community</h4>
+							<h4 style="margin:0px;">Start TechWheel Community</h4>
 							<h5 style="margin:0px;">?</h4>
 						</a>
 					</div>
