@@ -263,7 +263,7 @@
 					<div class="step__media">
 						<img height="120dp" class="button hero__button" src="./images/tolu.png" class="step__image">
 							<a href="https://linkedin.com/in/adetuyitolu" target="_blank">
-								<h4 style="margin:0px;" >Adetuyi Tolu Emmauel</h4>
+								<h4 style="margin:0px;" >Tolu Adetuyi</h4>
 							</a>
 					</div>
 
