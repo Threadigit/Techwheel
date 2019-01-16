@@ -254,7 +254,7 @@
 	<div class="steps landing__section" data-aos="fade-up">
 		<div class="container" data-aos="fade-down">
 				<a name="about" style="height: 0px;"></a>
-			<h2>TechWheel Team</h2>
+			<h2>Team</h2>
 			<p>Below are the young vibrants industrious innovators who are leading the Techwheel team</p>
 		</div>
 		<div class="container">
