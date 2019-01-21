@@ -84,7 +84,6 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-117542892-1');
 </script>
 
@@ -181,8 +180,6 @@
 <!-- Our Mentors -->
 	<div class="steps landing__section" data-aos="fade-up">
 		<div class="container">
-
-
 				<div class="steps__inner">
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
