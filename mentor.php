@@ -233,7 +233,7 @@
 						<img height="120dp" class="button hero__button" src="./images/niyi.png" class="step__image" />
 							<a href="https://www.linkedin.com/in/adegboyehenry/" target="_blank">
 								<h4 style="margin:0px;">Niyi Adegboye</h4>
-								<h5 style="margin:0px;">Senior Business Developer, Edves</h4>
+								<h5 style="margin:0px;">Head of Growth, Strategy & Partnership, Accounteer</h4>
 							</a>
 					</div>
 				</div>
@@ -242,7 +242,7 @@
 						<img height="120dp" class="button hero__button" src="./images/simi.png" class="step__image" />
 						<a href="https://www.linkedin.com/in/simiadejumo/" target="_blank">
 							<h4 style="margin:0px;">Simi Adejumo</h4>
-							<h5 style="margin:0px;">Strategic Business Developer, Accounteer</h4>
+							<h5 style="margin:0px;">Product Manager, Startup Studio</h4>
 						</a>
 					</div>
 
@@ -267,7 +267,7 @@
 						<img height="120dp" class="button hero__button" src="./images/lanre.png" class="step__image /">
 						<a href="https://www.linkedin.com/in/ogungbelanre/" target="_blank">
 							<h4 style="margin:0px;">Ogungbe Olanrewaju</h4>
-							<h5 style="margin:0px;">International Business Developer at Accounteer</h4>
+							<h5 style="margin:0px;">Head of Client Services at Accounteer</h4>
 						</a>
 					</div>
 
