@@ -360,7 +360,7 @@
 					<div class="footer__data__item">
 						<div class="footer__row">
 
-							&copy 2018, All rights reserved
+							&copy 2019, All rights reserved
 						</div>
 					</div>
 
