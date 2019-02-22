@@ -298,10 +298,10 @@
 
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
-						<img height="120dp" class="button hero__button" src="./images/avatar.png" class="step__image" />
-							<a href="https://goo.gl/forms/PQJx7ErJfnT7K3KO2" target="_blank">
-								<h4 style="margin:0px;">Join Us</h4>
-								<h5 style="margin:0px;">?</h4>
+						<img height="120dp" class="button hero__button" src="./images/ridwan.png" class="step__image" />
+							<a href="https://www.linkedin.com/in/ridwan-oladipupo-b7b292139/" target="_blank">
+								<h4 style="margin:0px;">Ridwan Oladipupo</h4>
+								<h5 style="margin:0px;">Software Engineer | Instructor</h4>
 							</a>
 					</div>
 				</div>
