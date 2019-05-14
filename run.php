@@ -7,7 +7,7 @@
  <?php
     $accessToken = $_REQUEST['AccessToken'];
     echo "<div>Access Token: ".$accessToken."</div><p></p><p></p>";
- file_put_contents('./log_'.date("j.n.Y").'.log', $_REQUEST, FILE_APPEND);
+
     print_r($_REQUEST);
   ?>
 <p></p><p></p><p></p>
