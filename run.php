@@ -7,7 +7,9 @@
  <?php
     $accessToken = $_REQUEST['AccessToken'];
     echo "<div>Access Token: ".$accessToken."</div><p></p><p></p>";
+
     print_r($_REQUEST);
+ file_put_contents('./log_'.date("j.n.Y").'.log', $_REQUEST, FILE_APPEND);
   ?>
 <p></p><p></p><p></p>
  <div>Copyright (c) 2018 Copyright Holder All Rights Reserved. Accounteer Test</div>
