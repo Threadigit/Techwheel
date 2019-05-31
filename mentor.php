@@ -84,7 +84,6 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-117542892-1');
 </script>
 
@@ -181,8 +180,6 @@
 <!-- Our Mentors -->
 	<div class="steps landing__section" data-aos="fade-up">
 		<div class="container">
-
-
 				<div class="steps__inner">
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
@@ -236,7 +233,7 @@
 						<img height="120dp" class="button hero__button" src="./images/niyi.png" class="step__image" />
 							<a href="https://www.linkedin.com/in/adegboyehenry/" target="_blank">
 								<h4 style="margin:0px;">Niyi Adegboye</h4>
-								<h5 style="margin:0px;">Senior Business Developer, Edves</h4>
+								<h5 style="margin:0px;">Head of Growth, Strategy & Partnership, Accounteer</h4>
 							</a>
 					</div>
 				</div>
@@ -245,7 +242,7 @@
 						<img height="120dp" class="button hero__button" src="./images/simi.png" class="step__image" />
 						<a href="https://www.linkedin.com/in/simiadejumo/" target="_blank">
 							<h4 style="margin:0px;">Simi Adejumo</h4>
-							<h5 style="margin:0px;">Strategic Business Developer, Accounteer</h4>
+							<h5 style="margin:0px;">Product Manager, Startup Studio</h4>
 						</a>
 					</div>
 
@@ -270,7 +267,7 @@
 						<img height="120dp" class="button hero__button" src="./images/lanre.png" class="step__image /">
 						<a href="https://www.linkedin.com/in/ogungbelanre/" target="_blank">
 							<h4 style="margin:0px;">Ogungbe Olanrewaju</h4>
-							<h5 style="margin:0px;">International Business Developer at Accounteer</h4>
+							<h5 style="margin:0px;">Head of Client Services at Accounteer</h4>
 						</a>
 					</div>
 
@@ -301,10 +298,10 @@
 
 				<div class="step" data-aos="zoom-in-down">
 					<div class="step__media">
-						<img height="120dp" class="button hero__button" src="./images/avatar.png" class="step__image" />
-							<a href="https://goo.gl/forms/PQJx7ErJfnT7K3KO2" target="_blank">
-								<h4 style="margin:0px;">Join Us</h4>
-								<h5 style="margin:0px;">?</h4>
+						<img height="120dp" class="button hero__button" src="./images/ridwan.png" class="step__image" />
+							<a href="https://www.linkedin.com/in/ridwan-oladipupo-b7b292139/" target="_blank">
+								<h4 style="margin:0px;">Ridwan Oladipupo</h4>
+								<h5 style="margin:0px;">Software Engineer | Instructor</h4>
 							</a>
 					</div>
 				</div>
