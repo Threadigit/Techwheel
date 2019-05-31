@@ -1,9 +1,12 @@
 
-<input type="button" value="Say hello" onClick="showUser('https://webhook.site/a6dc6868-57ee-43d8-ac01-cfdb6cdc7799','fadis')" />
+<input type="button" value="Say hello" onClick="showUser()" />
 
 <script type="text/javascript">
 
-   function showUser(url,id) {
-       Android.showUser(url,id);
-   }
+var user = {"id":"fadis",
+    "url":"https://webhook.site/a6dc6868-57ee-43d8-ac01-cfdb6cdc7799",
+    "token":"long token to use for authentication"};
+function showUser() {
+    Android.showUser(user);
+}
 </script>
