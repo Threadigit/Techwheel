@@ -400,7 +400,7 @@
         <script type="text/javascript">
         var typed = new Typed(
             '#typedit', {
-                strings: ["believe poverty can be defeated", "invest in Human Development","build innovators","build digital disruptors","educate people to start", "increase the number of people", "solve local and global problems"],
+                strings: ["believe poverty can be defeated", "invest in Human Development","build innovators","build digital disruptors","educate people to start", "solve local and global problems"],
                 typeSpeed: 100,
                 fadeOut: true,
                 smartBackspace: true,
