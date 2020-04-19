@@ -210,7 +210,7 @@
 						<img src="./images/mission.svg" class="step__image">
 					</div>
 					<h4>Our Mission</h4>
-					<p class="step__text">We constantly invest in human development by identifying talent, grooming them and deploying them as a solution driven technocrats to their community.</p>
+					<p class="step__text">We constantly invest in human development by identifying the undeserved people within a community, grooming them and deploying them as a solution driven technocrats to their community.</p>
 				</div>
 				<div class="step" data-aos="fade-down">
 					<div class="step__media">
